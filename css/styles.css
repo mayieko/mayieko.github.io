@@ -1,3 +1,14 @@
 body{
   color: #000000;
 }
+.digital p{
+  background-color: #ff1a1a;
+}
+.my-class {
+  margin: 0px solid red;
+  border: 14px solid yellow;
+  padding: 34px solid blue;
+}
+img{
+  float: left;
+}
