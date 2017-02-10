@@ -12,3 +12,6 @@ body{
 img{
   float: left;
 }
+.highlight{
+  color: purple;
+}
