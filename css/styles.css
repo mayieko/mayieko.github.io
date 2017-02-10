@@ -2,16 +2,34 @@ body{
   color: #000000;
 }
 .digital p{
-  background-color: #ff1a1a;
+  background-color: #ffff00;
 }
 .my-class {
   margin: 0px solid red;
-  border: 14px solid yellow;
-  padding: 34px solid blue;
+  border: 14px solid blue;
+  padding: 34px solid green;
 }
 img{
   float: left;
 }
 .highlight{
   color: purple;
+}
+h1{
+  text-align: center;
+}
+h2{
+  text-align: center;
+}
+ol{
+  list-style-type: none; text-align: center;
+}
+p.intro{
+  text-align: center;
+}
+.important{
+  text-align: center;
+}
+body{
+  background-color: #ff4dff;
 }
